@@ -80,7 +80,7 @@ export default function Header() {
                   <li>
                     <Link
                       href="/dashboard"
-                      title="dashboard"
+                      title="Dashboard"
                       className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3"
                     >
                       <span>Dashboard</span>
